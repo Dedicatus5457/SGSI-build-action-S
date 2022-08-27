@@ -1,5 +1,5 @@
 <div align="center">
-	<span style="font-weight: bold"> English | <a href=README_CN.md> 中文 </a> </span>
+	<span style="font-weight: bold"> English | <a href=README.md> 中文 </a> </span>
 </div>
 
 ## SGSI-build-action
